@@ -124,7 +124,7 @@ a {
 #lista1 {
   margin-left: 75px;
   margin-right: auto;
-  list-style-image: url("icon.png");
+  list-style-image: url("/Icon/icon.png");
   font-family: 'Rampart One', cursive;
   font-size: 20px;
 }
